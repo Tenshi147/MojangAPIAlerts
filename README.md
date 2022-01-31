@@ -10,7 +10,7 @@ Alerts a Discord server upon detecting that Mojang has updated their API version
 
 ## Installation
 
-1. Replace webhook locations in `APIUpdateAlerts.py` with a Discord webhook of your choice
+1. Replace webhook locations in `APIUpdateAlerts.py` with Discord webhooks of your choice
 2. If you have a linux VPS, upload `APIUpdateAlerts.py` and [install screen](https://www.interserver.net/tips/kb/using-screen-to-attach-and-detach-console-sessions/)
 3. Run `screen` and skip the information page
 4. Run `python3 main.py`
