@@ -2,6 +2,8 @@
 
 Alerts a Discord server upon detecting that Mojang has updated their API version
 
+If you want help setting this up, feel free to open an issue and I'll try my best to help you out
+
 ## Requirements
 
 - Python3
