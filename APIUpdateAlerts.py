@@ -148,7 +148,7 @@ def main():
         if apiVer != None:
             if curVer == None:
                 print(
-                    f"No current version data, logging {apiVer} to APIVersion.txt")
+                    f"No staging version data, logging {apiVer} to APIVersionStaging.txt")
                 writeVersion_staging(apiVer)
             else:
                 if apiVer != curVer:
